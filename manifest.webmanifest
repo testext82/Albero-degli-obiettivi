@@ -1,0 +1,18 @@
+{
+  "name": "Albero degli Obiettivi",
+  "short_name": "Obiettivi",
+  "description": "Gestisci i tuoi obiettivi con una struttura ad albero: sotto-obiettivi, scadenze, priorità, note e allegati.",
+  "lang": "it",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF2E9",
+  "theme_color": "#2F5541",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
